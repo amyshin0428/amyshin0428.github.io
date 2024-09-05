@@ -10,7 +10,7 @@ labels:
   - Athletic Software Engineering 
 ---
 
-## First weekend of Typescript
+## First weekend of learning Typescript
 
 As someone who’s a complete newbie on Typescript, I was worried since it was a type of programming language I’ve never heard of before and the only programming experience I’ve had was Java.  From my previous experience of Java, Java and TypeScript are both powerful languages but they serve different purposes and have distinct characteristics.  First, their language type is different since Java is a statically-typed, object-oriented programming language. It's primarily used for server-side development, Android apps, and large enterprise systems while typescript is a statically typed superset of Javascript which adds optional type annotations to Javascript and they are primarily used for client-side web development and can be compiled to Javascript to run in any browser.  Typescript, unlike Java which compiles into bytecode and runs on the Java Virtual Machine, compiles to Javascript and the TypeScript compiler converts TypeScript code into JavaScript.  From a software engineering perspective, I think it's a good programming language because it offers good tooling support for example the autocompletion, code navigation to help enhance developer productivity and code maintainability.  The optional static types and clear interfaces help the code to be easier to understand, and could be of great help when reading large codebases. 
 
